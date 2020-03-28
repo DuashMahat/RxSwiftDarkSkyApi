@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "52E5D17B-7754-454C-BB75-83C8903BC2C7"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0CC4C0B2-374A-4C2D-BFBC-C16EB27963AC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ApiHandler/APIHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "getData(request:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0CC4C0B2-374A-4C2D-BFBC-C16EB27963AC - fcc072e955f69fc1"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherData.APIHandler.getData(request: Foundation.URLRequest) -&gt; RxSwift.Observable&lt;Swift.Optional&lt;Foundation.Data&gt;&gt;"
+                  moduleName = "WeatherData"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdull53/Desktop/coreData/WeatherData/ApiHandler/APIHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "43">
+               </Location>
+               <Location
+                  uuid = "0CC4C0B2-374A-4C2D-BFBC-C16EB27963AC - f371b75e8a63c945"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (RxSwift.AnyObserver&lt;Swift.Optional&lt;Foundation.Data&gt;&gt;) -&gt; RxSwift.Disposable in WeatherData.APIHandler.getData(request: Foundation.URLRequest) -&gt; RxSwift.Observable&lt;Swift.Optional&lt;Foundation.Data&gt;&gt;"
+                  moduleName = "WeatherData"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdull53/Desktop/coreData/WeatherData/ApiHandler/APIHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "151">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D6FA121C-3F72-475B-8112-0A4D5F00C1B6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherData/WeatherViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "165"
+            endingLineNumber = "165"
+            landmarkName = "locationManager(_:didUpdateLocations:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
